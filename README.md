@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Black Peak Technologies](https://blackpeaktechnologies.com/)
 
-- 👯 I’m looking to collaborate on [Apache Wayang](https://github.com/apache/incubator-wayang)
+- 👯 I’m currently collaborating on [Apache Wayang](https://github.com/apache/incubator-wayang)
 
 - 💬 Ask me about **Big Data, Machine Learning and Data Processing problems**
 
