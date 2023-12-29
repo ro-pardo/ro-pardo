@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Pardo Meza</h1>
 <h3 align="center">A Data Scientist and Computer Engineer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ro-pardo&label=Profile%20views&color=0e75b6&style=flat" alt="ro-pardo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ro-pardo" alt="ro-pardo" /></a> </p>
 
 - 🔭 I’m currently working on [Black Peak Technologies](https://blackpeaktechnologies.com/)
